@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="151b52c8-949c-4c6e-990c-1d442c4e1638" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/CVApplication.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CVApplication/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CVApplication/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CVApplication/docker.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CVApplication/env.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CVApplication/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CVApplication/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CVApplication/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/Images/profile.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/documents/Tuğrul_Yılmaz_ENCV.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/documents/Tuğrul_Yılmaz_TRCV.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/img/ben.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/img/portfolio/mobile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/img/portfolio/mobilogo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/img/portfolio/website.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/img/portfolio/websitelogo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/img/wp.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myCV/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myCV/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myCV/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myCV/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myCV/migrations/0002_imagesettings_alter_generalsettings_options_and_more.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myCV/migrations/0003_skill.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myCV/migrations/0004_alter_skill_options.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myCV/migrations/0005_secondskill.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myCV/migrations/0006_experience.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myCV/migrations/0007_alter_experience_end_date_and_more.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myCV/migrations/0008_alter_experience_options.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myCV/migrations/0009_experience_name.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myCV/migrations/0010_remove_experience_company_name_and_more.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myCV/migrations/0011_education.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myCV/migrations/0013_socialmedia.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myCV/migrations/0014_document.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myCV/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myCV/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myCV/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myCV/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myCV/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirement.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/includes/footer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/includes/head.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/includes/navbar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/includes/scripts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/layout.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dockerfile" />
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2fCH00pa9zalT6bmq3EbOZ66OOD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;Django Server.CVApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Docker.docker-compose.yml.app: Compose Deployment.executor&quot;: &quot;Run&quot;,
+    &quot;Docker.docker-compose.yml: Compose Deployment.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenDjangoStructureViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.pycharm.django.structure.promotion.once.per.project&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;django.template.preview.state&quot;: &quot;SHOW_EDITOR&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/tugru/newDjangoProject/CVApplication/media/img/portfolio&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;Docker&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\tugru\newDjangoProject\CVApplication\media\img\portfolio" />
+      <recent name="C:\Users\tugru\newDjangoProject\CVApplication\templates\portfolio" />
+      <recent name="C:\Users\tugru\newDjangoProject\CVApplication\static\portfolio" />
+      <recent name="C:\Users\tugru\newDjangoProject\CVApplication\media\portfolio" />
+      <recent name="C:\Users\tugru\newDjangoProject\CVApplication\media\project" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\tugru\newDjangoProject\CVApplication\media\img\portfolio" />
+      <recent name="C:\Users\tugru\newDjangoProject\CVApplication\media\img" />
+      <recent name="C:\Users\tugru\newDjangoProject\CVApplication\static\php" />
+      <recent name="C:\Users\tugru\Downloads" />
+      <recent name="C:\Users\tugru\newDjangoProject\CVApplication\static" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Django Server.CVApplication">
+    <configuration default="true" type="docker-deploy" factoryName="docker-compose.yml" temporary="true">
+      <deployment type="docker-compose.yml">
+        <settings />
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="CVApplication" type="Python.DjangoServer" factoryName="Django server">
+      <module name="CVApplication" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="CVApplication.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.12 (CVApplication)" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" IS_EXECUTABLE="false" />
+        </ENTRIES>
+      </EXTENSION>
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="localhost" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="CVApplication" type="Python.DjangoServer" factoryName="Django server">
+      <module name="CVApplication" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="CVApplication.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.12 (CVApplication)" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" IS_EXECUTABLE="false" />
+        </ENTRIES>
+      </EXTENSION>
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="localhost" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docker-deploy" factoryName="docker-compose.yml" temporary="true">
+      <deployment type="docker-compose.yml">
+        <settings />
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="docker-compose.yml: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="envFilePath" value="" />
+          <option name="commandLineOptions" value="--build" />
+          <option name="sourceFilePath" value="docker-compose.yml" />
+          <option name="upAlwaysRecreate" value="true" />
+          <option name="upForceRecreate" value="true" />
+          <option name="upRemoveOrphans" value="true" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="docker-compose.yml: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="envFilePath" value="" />
+          <option name="commandLineOptions" value="--build" />
+          <option name="sourceFilePath" value="docker-compose.yml" />
+          <option name="upAlwaysRecreate" value="true" />
+          <option name="upForceRecreate" value="true" />
+          <option name="upRemoveOrphans" value="true" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Django Server.CVApplication" />
+      <item itemvalue="Docker.docker-compose.yml: Compose Deployment" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Docker.docker-compose.yml: Compose Deployment" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-PY-241.15989.155" />
+        <option value="bundled-python-sdk-babbdf50b680-7c6932dee5e4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.15989.155" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="151b52c8-949c-4c6e-990c-1d442c4e1638" name="Changes" comment="" />
+      <created>1713297912223</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713297912223</updated>
+      <workItem from="1713297916640" duration="2572000" />
+      <workItem from="1713300544842" duration="3000" />
+      <workItem from="1713300578963" duration="92000" />
+      <workItem from="1713465141588" duration="3819000" />
+      <workItem from="1713468998948" duration="5891000" />
+      <workItem from="1713517936455" duration="1886000" />
+      <workItem from="1713526266203" duration="3883000" />
+      <workItem from="1713531127749" duration="198000" />
+      <workItem from="1714757798263" duration="336000" />
+      <workItem from="1714758150343" duration="932000" />
+      <workItem from="1714825806539" duration="3029000" />
+      <workItem from="1715027174828" duration="2729000" />
+      <workItem from="1715079800942" duration="1517000" />
+      <workItem from="1715179759670" duration="457000" />
+      <workItem from="1715180450662" duration="5289000" />
+      <workItem from="1715194639438" duration="8884000" />
+      <workItem from="1715203591433" duration="473000" />
+      <workItem from="1715249246215" duration="1140000" />
+      <workItem from="1715250448438" duration="4331000" />
+      <workItem from="1715269533062" duration="6539000" />
+      <workItem from="1715333843373" duration="3504000" />
+      <workItem from="1715340782887" duration="7791000" />
+      <workItem from="1715444763082" duration="249000" />
+      <workItem from="1715625482937" duration="6686000" />
+      <workItem from="1716036182144" duration="11107000" />
+      <workItem from="1716049203975" duration="359000" />
+      <workItem from="1716378036883" duration="102000" />
+      <workItem from="1716378160214" duration="509000" />
+      <workItem from="1716379628396" duration="3684000" />
+      <workItem from="1716466073049" duration="12437000" />
+      <workItem from="1716483394935" duration="2592000" />
+      <workItem from="1716491253628" duration="10484000" />
+      <workItem from="1716502041621" duration="310000" />
+      <workItem from="1716541943968" duration="463000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
